@@ -1,0 +1,6 @@
+{
+  "name": "AgriLens AI",
+  "description": "AI-powered plant leaf disease screening, agricultural guidance, crop library, and presentation platform by Team BioVision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

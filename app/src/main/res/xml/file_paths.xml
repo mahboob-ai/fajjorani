@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path
+        name="camera_leaf_photos"
+        path="leaf_captures/" />
+    <files-path
+        name="saved_leaf_photos"
+        path="leaf_history/" />
+</paths>
